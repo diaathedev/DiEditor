@@ -1,4 +1,5 @@
 # DiEditor
+<img width="1366" height="768" alt="screenshot_20261012_214039" src="https://github.com/user-attachments/assets/2368387a-c83a-453d-9936-3b345b5f8061" />
 Lightweight CapCut-style editor 
 
     pip install -r requirements.txt
